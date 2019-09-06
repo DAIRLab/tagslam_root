@@ -5,6 +5,8 @@ dependencies for the [TagSLAM project](https://berndpfrommer.github.io/tagslam_w
 
 This repository relies heavily on [git submodules](https:www.vogella.com/tutorials/GitSubmodules/article.html).
 
+**This project is augmented from the original to include several submodules related to the kuka vision setup.**
+
 ## Installation instructions
 
 Since this is ROS package, you will need
